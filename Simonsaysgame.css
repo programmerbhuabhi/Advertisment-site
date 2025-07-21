@@ -1,0 +1,46 @@
+body
+{
+    text-align: center;
+}
+.btn
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 20%;
+    /* justify-content: center; */
+    margin: 10px;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+}
+.A
+{
+    background-color: #f99b45;
+}
+.B
+{
+    background-color: #d95980;
+}
+.C
+{
+    background-color: #819ff9;
+}
+.D
+{
+    background-color: #63aac0;
+}
+.flash
+{
+    background-color: white;
+}
+.userflash
+{
+    background-color: green;
+}
+.red
+{
+    background-color: red;
+}
